@@ -1,7 +1,7 @@
 # Lern-Periode-5
 
 - Name: Tobias Heri
-- Zeitraum: 14.08.2026 bis tt.mm.jjjj
+- Zeitraum: 14.08.2026 bis 18.09.2026
 
 ## Grob-Planung
 
@@ -38,7 +38,7 @@
 - [ ] Ich will ein erstes kleines Game in Unity machen mit Hilfe von YouTube oder KI
 - [ ] Danach will ich ein einfaches kleines Spiel selber machen ohne Hilfe
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich sehr gut gearbeitet und ich konnte Unity herunterladen und ein erstes kleines Spiel mit turtorials machen aber ich habe es noch nicht gschafft selber ein kleines Spiel in Unity zu machen dafür habe ich mehrere Turtorials die von Unity freigegeben sind gemacht und angeschaut.)
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
