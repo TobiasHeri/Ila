@@ -40,5 +40,24 @@
 
 (Heute habe ich sehr gut gearbeitet und ich konnte Unity herunterladen und ein erstes kleines Spiel mit turtorials machen aber ich habe es noch nicht gschafft selber ein kleines Spiel in Unity zu machen dafür habe ich mehrere Turtorials die von Unity freigegeben sind gemacht und angeschaut.)
 
+### Planung 28.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Ich kenne die Codes noch nicht so gut um ein eigenes Game zu programmieren darum werde ich weiterhin mit den Tutorials von Unity arbeiten .
+- [ ] Selber versuchen die basic Codes von Unity auswendig zu lernen.
+- [ ] Noch ein bisschen mit Objektorientiertem programmieren weiter arbeiten. 
+
+(Heute habe ich nur am Casino gearbeitet, weil während des programmieren sind mir immer weitere Ideen in den Kopf gekommen und dann habe ich immer mehr und mehr gemacht und gar nicht gemerkt das die Zeit so schnell vorbeiging)
+
+
+### Planung 05.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Ich will heute Unity herunterladen
+- [ ] Ich will ein erstes kleines Game in Unity machen mit Hilfe von YouTube oder KI
+- [ ] Danach will ich ein einfaches kleines Spiel selber machen ohne Hilfe
+
+(Heute habe ich sehr gut gearbeitet und ich konnte Unity herunterladen und ein erstes kleines Spiel mit turtorials machen aber ich habe es noch nicht gschafft selber ein kleines Spiel in Unity zu machen dafür habe ich mehrere Turtorials die von Unity freigegeben sind gemacht und angeschaut.)
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
