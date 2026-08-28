@@ -47,7 +47,7 @@
 - [ ] Selber versuchen die basic Codes von Unity auswendig zu lernen.
 - [ ] Noch ein bisschen mit Objektorientiertem programmieren weiter arbeiten. 
 
-(Heute habe ich nur am Casino gearbeitet, weil während des programmieren sind mir immer weitere Ideen in den Kopf gekommen und dann habe ich immer mehr und mehr gemacht und gar nicht gemerkt das die Zeit so schnell vorbeiging)
+(Ich habe heute gut gearbeitet und habe ein spiel angefangen mit dem Tutorial danach habe ich noch ein bisschen für meine frw Prüfung gelernt.)
 
 
 ### Planung 05.08.2026
