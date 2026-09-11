@@ -59,5 +59,17 @@
 
 (Heute habe ich sehr gut gearbeitet und ich konnte Unity herunterladen und ein erstes kleines Spiel mit turtorials machen aber ich habe es noch nicht gschafft selber ein kleines Spiel in Unity zu machen dafür habe ich mehrere Turtorials die von Unity freigegeben sind gemacht und angeschaut.)
 
+
+### Planung 011.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Ich will heute eine kleine UI in mein Game einbauen.
+- [ ] Einfache Effects einbauen.
+- [ ] Einen Gegener machen der einen vorbestimmten Weg lauft.
+
+
+(Heute habe ich sehr gut gearbeitet und ich konnte Unity herunterladen und ein erstes kleines Spiel mit turtorials machen aber ich habe es noch nicht gschafft selber ein kleines Spiel in Unity zu machen dafür habe ich mehrere Turtorials die von Unity freigegeben sind gemacht und angeschaut.)
+
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
