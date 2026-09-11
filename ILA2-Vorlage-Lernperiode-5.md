@@ -68,7 +68,7 @@
 - [ ] Einen Gegener machen der einen vorbestimmten Weg lauft.
 
 
-(Heute habe ich sehr gut gearbeitet und ich konnte Unity herunterladen und ein erstes kleines Spiel mit turtorials machen aber ich habe es noch nicht gschafft selber ein kleines Spiel in Unity zu machen dafür habe ich mehrere Turtorials die von Unity freigegeben sind gemacht und angeschaut.)
+(Heute habe ich sehr gut gearbeitet und konnte schon eine UI fürs Leben einbauen ich habe auch kleine Effects beim Zerstören vom Gegner danach da ich ein Tower Defense Spiel mache konnte ich mit Splines den Weg aller Gegner vorgeben das sie dem Folgen.)
 
 
 ## Lernperiode Reflexion
