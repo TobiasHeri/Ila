@@ -70,6 +70,15 @@
 
 (Heute habe ich sehr gut gearbeitet und konnte schon eine UI fürs Leben einbauen ich habe auch kleine Effects beim Zerstören vom Gegner danach da ich ein Tower Defense Spiel mache konnte ich mit Splines den Weg aller Gegner vorgeben das sie dem Folgen.)
 
+### Planung 018.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Ich will heute meine Umgebung verschönern.
+- [ ] Mehr einfache Effects einbauen.
+- [ ] Zwei oder mehr Gegner random spawnen lassen.
+
+
+(Heute habe ich sehr gut gearbeitet und konnte schon eine UI fürs Leben einbauen ich habe auch kleine Effects beim Zerstören vom Gegner danach da ich ein Tower Defense Spiel mache konnte ich mit Splines den Weg aller Gegner vorgeben das sie dem Folgen.)
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
