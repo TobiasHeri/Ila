@@ -24,11 +24,11 @@
 ### Planung 16.10.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Zuerst will ich heraufinden wie man richtig ein Unity projekt mit jemandem Verbindet.
-- [ ] Ein paar Interaktionen im Spiel erstellen.
-- [ ] Eine kleine, einfache Spielumgebung erstellen.
+- [x] Zuerst will ich heraufinden wie man richtig ein Unity projekt mit jemandem Verbindet.
+- [] Ein paar Interaktionen im Spiel erstellen.
+- [x] Einen Schlüssel erstellen den wir später benutzen können.
 
-(Heute habe ich nur am Casino gearbeitet, weil während des programmieren sind mir immer weitere Ideen in den Kopf gekommen und dann habe ich immer mehr und mehr gemacht und gar nicht gemerkt das die Zeit so schnell vorbeiging)
+(Wir konnten heute unser Github zusammen mit Unity verbinden und können jetzt gemeinsam am Projekt mit git pull, push arbeiten und ich habe einen Schlüssel erstellt und in Unity importiert aber leider noch keine Interaktion damit geschafft)
 
 
 
